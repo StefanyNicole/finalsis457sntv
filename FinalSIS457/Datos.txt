@@ -1,0 +1,7 @@
+Datos de Usuario(Login)
+Usuario: usrsntv
+password: 12345678
+
+Datos de bdfinalsntv:
+Usuario: stefany
+Password: FhhjBw2eMaNCff6g4JhqwS93w8S3qHGHWL7TGPAGVQ0=
